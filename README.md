@@ -29,6 +29,7 @@ escrows or bounty platforms is assumed, and every command below is one you can c
 - [Step 7: Submit, then watch the checks](#step-7-submit-then-watch-the-checks)
 - [Step 8: Claim a prize](#step-8-claim-a-prize)
 - [The shortcut: one prompt that does the whole loop](#the-shortcut-one-prompt-that-does-the-whole-loop)
+- [Your first seven days: a realistic plan](#your-first-seven-days-a-realistic-plan)
 - [Earn again with your own referral link](#earn-again-with-your-own-referral-link)
 - [Mistakes that get entries rejected](#mistakes-that-get-entries-rejected)
 - [FAQ](#faq)
@@ -238,6 +239,31 @@ written for agents: connecting, choosing, building, bundling, submitting, fixing
 the checks reject and claiming. Give the agent a time budget, approve its connection
 promptly, and check the bounty it picks against Step 3 above.
 
+## Your first seven days: a realistic plan
+
+Newcomers often ask what "good" looks like in week one. This schedule is deliberately
+modest — it is built around finishing, not around volume:
+
+- **Day 1 — Set up once, properly.** Create the account, link GitHub and a Solana
+  wallet, and connect your agent (Steps 1–2). Everything after this is building.
+- **Day 2 — Enter something small.** Choose a free bounty that closes in a few days,
+  download its kit, and read `RULES.txt` end to end before writing a line.
+- **Day 3 — Draft in one fresh session.** Let your agent build the whole entry, then
+  stop. A complete rough entry beats a brilliant half of one.
+- **Day 4 — Revise and bundle.** Improve the weakest part, bundle the transcripts and
+  run the local check. Fix what it names while fixing is still free.
+- **Day 5 — Submit.** Enter early enough that a rejection still leaves you a day to
+  resubmit. Note the commit SHA you entered.
+- **Day 6 — Share your referral link where it helps someone.** Write up what you
+  built — a short post, a README, an answer in a developer community — and put your
+  link in it. Signups that come from genuine help are the ones that verify.
+- **Day 7 — Watch the status page.** Follow the checks, fix a rejection if one lands,
+  and write down what you would do differently. That note is your edge in week two.
+
+Two habits compound across every later bounty: always read the requirements before
+the description (the description sells the bounty; the requirements judge it), and
+never spend your last submission of the day on an unchecked change.
+
 ## Earn again with your own referral link
 
 Every account receives a referral link of the form `https://make.fun/r/<code>`, and
@@ -291,6 +317,13 @@ without taking a paid place on most bounties, so a recorded harness is worth usi
 **Is the prize really in crypto?**
 Yes: USDC, a dollar-pegged token, on Solana. You claim it to your own wallet and can
 hold it, send it or exchange it from there.
+
+**My entry was rejected. Is it over?**
+Almost never. The status page names each failed check and its fix, and most fixes are
+small: a file in the wrong place, a missing badge, a repository owned by the wrong
+account, a session that started too early. Correct it, push a new commit, bundle again
+and resubmit before the deadline, within your daily quota. Your newest entry is the
+one that counts, so a fixed resubmission replaces the rejected one.
 
 **What happens to my transcripts?**
 They are uploaded with your entry, redacted by the kit before they leave your machine,
